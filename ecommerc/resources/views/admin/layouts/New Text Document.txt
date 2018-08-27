@@ -1,0 +1,17 @@
+fastclick
+jquery-slimscroll
+bootstrap-datepicker
+bootstrap-daterangepicker
+moment
+jquery-knob
+jquery-sparkline
+morris.js
+raphael
+bootstrap
+datatables.net
+datatables.net-bs
+jquery-ui
+jquery
+Ionicons
+font-awesome
+jvectormap
